@@ -339,4 +339,11 @@ Possible future improvements include:
 
 ## License
 
-This project is intended for educational and demonstration purposes.
+This project is licensed under the MIT License.
+
+Copyright (c) 2026 Faizan Fatmi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the software,
+subject to the conditions of the MIT License.
