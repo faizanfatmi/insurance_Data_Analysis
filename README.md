@@ -210,7 +210,7 @@ Insurance_Predictor/
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/faizanfatmi/insurance_Data_Analysis.git
 ```
 
 Navigate to the project directory:
